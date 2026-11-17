@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Firmware adaptation / 固件适配
+    url: https://github.com/CANmeleon/canmeleon-usb-can-firmware/issues/new?template=open_hardware_adaptation.md
+    about: Request firmware support for an open-source board.
+  - name: Commercial cooperation / 商业合作
+    url: https://github.com/CANmeleon#contact-and-participate
+    about: Contact CANmeleon for software and firmware integration, chip porting and maintenance.
